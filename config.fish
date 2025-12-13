@@ -10,10 +10,10 @@ alias gco "git checkout"
 alias gcb "git checkout -b"
 alias y yazi
 alias cr "cargo run"
-
+alias oc opencode
 alias ca cursor-agent
-
 alias c cursor
+alias tls "tmux list-sessions"
 
 starship init fish | source
 
