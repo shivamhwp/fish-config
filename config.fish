@@ -44,9 +44,9 @@ export ANTHROPIC_BASE_URL="https://openrouter.ai/api"
 export ANTHROPIC_AUTH_TOKEN="$OPENROUTER_CLAUDE_INTEGRATION_KEY"
 export ANTHROPIC_API_KEY="" # Important: Must be explicitly empty
 
-export ANTHROPIC_DEFAULT_SONNET_MODEL="moonshotai/kimi-k2:free"
-export ANTHROPIC_DEFAULT_OPUS_MODEL="moonshotai/kimi-k2:free"
-export ANTHROPIC_DEFAULT_HAIKU_MODEL="moonshotai/kimi-k2:free"
+export ANTHROPIC_DEFAULT_SONNET_MODEL="kwaipilot/kat-coder-pro:free"
+export ANTHROPIC_DEFAULT_OPUS_MODEL="kwaipilot/kat-coder-pro:free"
+export ANTHROPIC_DEFAULT_HAIKU_MODEL="kwaipilot/kat-coder-pro:free"
 
 
 
