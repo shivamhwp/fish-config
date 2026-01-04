@@ -16,6 +16,7 @@ alias cc claude
 alias ca cursor-agent
 alias c cursor
 alias tls "tmux list-sessions"
+alias btcac "btca chat"
 
 starship init fish | source
 
